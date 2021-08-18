@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/drawable/ic_bin.xml" value="1.6625" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/activity_hole_quantity_selection.xml" value="1.105072463768116" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/activity_list.xml" value="0.4256410256410256" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/activity_main.xml" value="0.8329297820823245" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/activity_tracker.xml" value="0.67" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/dialog_face.xml" value="0.8249063670411985" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/layout/list_item.xml" value="0.75" />
+        <entry key="..\:/Users/spel-/AndroidStudioProjects/GolfTracker/app/src/main/res/xml/backup_rules.xml" value="1.041062801932367" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

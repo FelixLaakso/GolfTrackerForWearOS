@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.wear.widget.BoxInsetLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/box_inset_layout_padding"
+    tools:context=".QuantitySelection"
+    tools:deviceIds="wear">
+
+    <FrameLayout
+        android:id="@+id/Menu_face"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:measureAllChildren="false"
+        app:layout_boxedEdges="all">
+
+        <TextView
+            android:id="@+id/hole_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hole_quantity"
+            android:textAlignment="center"
+            tools:layout_conversion_absoluteHeight="128dp"
+            tools:layout_conversion_absoluteWidth="138dp"
+            tools:layout_editor_absoluteX="34dp"
+            tools:layout_editor_absoluteY="34dp" />
+
+        <Button
+            android:id="@+id/nine_holes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9"
+            android:translationY="25dp"
+            tools:layout_editor_absoluteX="34dp"
+            tools:layout_editor_absoluteY="34dp" />
+
+        <Button
+            android:id="@+id/eighteen_holes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="18"
+            android:translationY="80dp"
+            tools:layout_editor_absoluteX="34dp"
+            tools:layout_editor_absoluteY="34dp" />
+
+    </FrameLayout>
+
+</androidx.wear.widget.BoxInsetLayout>
